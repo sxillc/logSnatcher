@@ -29,7 +29,7 @@ import csv
 import socket
 
 
-#Global Variables, These are used throughout the script
+#Global Variables, These are used throughout the script.
 
 #Initiate empty globals that will be changed in the script
 dirToScan = ''
