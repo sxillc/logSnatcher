@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		6C7D00F018C1A50A0011A880 /* logSnatcher.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = logSnatcher.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		6C7D00E918C1A4FC0011A880 = {
 			isa = PBXGroup;
 			children = (
+				6C7D00F018C1A50A0011A880 /* logSnatcher.py */,
 			);
 			sourceTree = "<group>";
 		};
